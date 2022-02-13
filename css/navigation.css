@@ -36,8 +36,7 @@ ul.topnav {
   
   @media screen and (max-width: 700px) {
     ul.topnav li.right, 
-    ul.topnav li,
-    li a, .dropbtn
+    ul.topnav li
      {float: none;}
   }
 
